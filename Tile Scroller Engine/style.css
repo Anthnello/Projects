@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+#gameScreen{
+    background-color: #333;
+    image-rendering: pixelated;
+    position: relative;
+}
