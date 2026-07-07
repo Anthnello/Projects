@@ -4,6 +4,6 @@ There is only one project for now. I don't know if I'll make more, but maybe I'l
 
 ## Projects
 
-### <a href="./Tile Scroller Engine">Tile Scroller Mini-Engine</a>
+### <a href="anthnello.github.io/Projects/Tile%20Scroller%20Engine">Tile Scroller Mini-Engine</a>
 
 This is a Tile Scroller Engine. The code is not very polished though, so you might not be able to understand it.
